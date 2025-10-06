@@ -6,7 +6,7 @@ Business logic and service implementations for the analysis API.
 This module contains the core services that handle analysis, file processing,
 session management, and other business operations.
 
-Author: LexiQ Team
+Author: vieuxtiful
 License: MIT
 """
 
