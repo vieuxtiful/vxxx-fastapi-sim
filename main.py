@@ -16,7 +16,7 @@ Features:
 - Rate limiting and security
 - Monitoring and logging
 
-Author: LexiQ Team
+Author: vieuxtiful
 License: MIT
 """
 
