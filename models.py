@@ -5,7 +5,7 @@ Data Models for FastAPI Analysis Boilerplate
 Pydantic models for request/response validation and data serialization.
 These models define the structure of data flowing through the API.
 
-Author: LexiQ Team
+Author: vieuxtiful
 License: MIT
 """
 
